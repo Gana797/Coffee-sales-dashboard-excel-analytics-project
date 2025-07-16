@@ -26,20 +26,33 @@ CoffeeSalesDashboardProject.xlsx – Final dashboard output with charts and inte
 The dataset includes the following fields:
 
 Field	Description
-Order ID	Unique ID assigned to each transaction
-Order Date	Date the coffee order was placed
-Ship Date	Date the order was delivered
-Product Category	Type of coffee product (Espresso, Latte, etc.)
-Product	Specific product name
-Sales	Total value of the sale
-Quantity	Number of units ordered
-Discount	Discount applied on the order
-Profit	Profit gained from the order
-Shipping Cost	Delivery charge associated with the order
-Region	Geographic region of delivery
-Customer ID	Unique customer identifier
-Customer Name	Full name of the customer
-Months	Month extracted from the order date
+Order ID-Unique ID assigned to each transaction
+
+Order Date-Date the coffee order was placed
+
+Ship Date-Date the order was delivered
+
+Product Category-Type of coffee product (Espresso, Latte, etc.)
+
+Product-Specific product name
+
+Sales-Total value of the sale
+
+Quantity-Number of units ordered
+
+Discount-Discount applied on the order
+
+Profit-Profit gained from the order
+
+Shipping Cost-Delivery charge associated with the order
+
+Region-Geographic region of delivery
+
+Customer ID-Unique customer identifier
+
+Customer Name-Full name of the customer
+
+Months-Month extracted from the order date
 
 -->Using Excel, the following steps were performed to create a business-ready dashboard:
 
